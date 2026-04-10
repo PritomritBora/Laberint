@@ -1,10 +1,10 @@
-# Maze Escape
+# LABERINT
 
 A first-person 3D maze game built in Unity where players must solve riddles and escape before being caught by an AI-driven enemy.
 
 ## Overview
 
-Maze Escape combines puzzle-solving, stealth, and adaptive AI into a single experience. The player navigates a procedurally structured maze, encounters holographic riddles, and must reach the exit — all while being hunted by an enemy that uses a scent-tracking system to find them.
+LABERINT combines puzzle-solving, stealth, and adaptive AI into a single experience. The player navigates a procedurally structured maze, encounters holographic riddles, and must reach the exit — all while being hunted by an enemy that uses a scent-tracking system to find them.
 
 The game features a dynamic difficulty system powered by a Behaviour Tree that monitors player progress and adjusts the challenge in real time.
 
